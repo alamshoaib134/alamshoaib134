@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alamshoib134
+- 👋 Hi, I’m @alamshoaib134
 - 👀 I’m interested in learning new technologies and here to learn those
 - 🌱 I’m currently learning web developement 
 - 💞️ I’m looking to collaborate on and web based projects probably django
