@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=alamshoaib134&color=blue)
 👋 Hi there! I'm a passionate Data Engineer currently shaping the future of data at Nike. With a strong foundation in Spark and Big Data, I navigate through massive datasets with ease, primarily using Python and Scala. My enthusiasm doesn't stop at data engineering; I'm deeply fascinated by AI and ML, constantly exploring new tools and technologies to broaden my horizon.
 
 🎓 Holding a Master's degree from IIT Gandhinagar, my academic journey was marked by an intense focus on NLP (Natural Language Processing), where I had the opportunity to contribute to the field through my thesis. This experience has not only honed my technical skills but also instilled in me a profound appreciation for the power of language in AI.
